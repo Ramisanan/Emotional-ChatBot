@@ -23,12 +23,3 @@ Peer-style support, coaching, learning help, and quick Q&A. It’s not a medical
 
 Safety note
 This chatbot provides general, peer-style support only. It does not diagnose, treat, or replace professional help. If you or someone else may be in danger, call local emergency services (US: 988 for the Suicide & Crisis Lifeline, or 911 for immediate danger).
-
-
-
-
-
-
-
-
-Ask ChatGPT
